@@ -1,0 +1,13 @@
+CompileFlags:
+  CompilationDatabase: build/
+  Add:
+    - -std=c++23
+  Remove:
+    - -Werror
+
+Diagnostics:
+  UnusedIncludes: Strict
+  MissingIncludes: Strict
+
+Index:
+  Background: Build
