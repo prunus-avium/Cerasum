@@ -1,12 +1,5 @@
-// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-License-Identifier: GPL-3.0-or-later
 // SPDX-FileCopyrightText: 2026 prunus-avium
-
-/**
- * @file lang.cpp
- * @brief 实用工具模块语言功能实现
- *
- * @author prunus-avium
- */
 
 #include <utils.hpp>
 

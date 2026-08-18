@@ -1,16 +1,5 @@
-// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-License-Identifier: GPL-3.0-or-later
 // SPDX-FileCopyrightText: 2026 prunus-avium
-
-/**
- * @file utils.cpp
- * @brief Implementation of utility functions for Cerasum audio player
- *
- * This source file implements the utility functions defined in utils.hpp.
- * It provides functionality for retrieving setting values and managing
- * various utility operations in the Cerasum audio player application.
- *
- * @author prunus-avium
- */
 
 #include <utils.hpp>
 

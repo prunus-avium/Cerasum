@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-FileCopyrightText: 2026 prunus-avium
+
 cmake_minimum_required(VERSION 3.30)
 project(Cerasum VERSION 1.0.0)
 
