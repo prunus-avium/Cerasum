@@ -21,7 +21,6 @@ nlohmann::json getSetting();
 namespace cerasum::utils::error {
 enum class ErrorCode : uint8_t {
     Unknown,
-    FatalUnknown,
     FileNotFound,
     PermissionDenied,
     IOError,
